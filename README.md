@@ -1,5 +1,5 @@
-# Vredeburg
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a1d36fc9-4471-4679-902c-337449ccb59d/deploy-status)](https://app.netlify.com/sites/vredeburg/deploys)
+# HTML Tutorial
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c28f105-4442-46d5-a035-7de49355e74f/deploy-status)](https://app.netlify.com/sites/htmltutorialkk/deploys)
 
 A simple starter project to create a blog using Eleventy and Tailwind CSS
 
