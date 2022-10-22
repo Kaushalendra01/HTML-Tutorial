@@ -1,0 +1,15 @@
+[
+    {
+        "label": "About",
+        "url": "/about"
+    },
+    {
+        "label": "Tag List",
+        "url": "/tags"
+    },
+    {
+        "label": "KK Educenter",
+        "url": "https://www.kkeducenter.in/",
+        "newTab": true
+    }
+]
